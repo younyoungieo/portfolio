@@ -70,10 +70,10 @@
 
 | 프로젝트명 | 설명 | 기술 스택 |
 |------------|------------------------------|------------------|
-| [java-lotto-7](https://github.com/younyounieo/java-lotto-7) | 우아한테크코스 프리코스 미션: 로또 게임 구현 | Java, OOP, TDD |
-| [java-racingcar-7](https://github.com/younyounieo/java-racingcar-7) | 경주 게임 구현 및 객체지향 설계 연습 | Java, OOP |
-| [java-calculator-7](https://github.com/younyounieo/java-calculator-7) | 문자열 기반 계산기 구현 | Java, TDD |
-| [kubernetes-study-2024](https://github.com/younyounieo/kubernetes-study-2024) | 쿠버네티스 스터디 정리 자료 | Kubernetes, YAML |
+| [java-lotto-7](https://github.com/younyoungieo/java-lotto-7) | 우아한테크코스 프리코스 미션: 로또 게임 구현 | Java, OOP, TDD |
+| [java-racingcar-7](https://github.com/younyoungieo/java-racingcar-7) | 경주 게임 구현 및 객체지향 설계 연습 | Java, OOP |
+| [java-calculator-7](https://github.com/younyoungieo/java-calculator-7) | 문자열 기반 계산기 구현 | Java, TDD |
+| [kubernetes-study-2024](https://github.com/younyoungieo/kubernetes-study-2024) | 쿠버네티스 스터디 정리 자료 | Kubernetes, YAML |
 
 ---
 
@@ -99,7 +99,7 @@
 | Git & Github | [발제자료 보기](./tech-sessions/Git.pdf) |
 | DB & NoSQL | [발제자료 보기](./tech-sessions/NoSQL.pdf) |
 | Spark & RDD 구조 | [발제자료 보기](./tech-sessions/Spark.pdf) |
-| 학회 운영 시스템 개선 | [회장단 인수인계](./system-improvements/회장단%20인수인계.md) |
+| 학회 운영 시스템 개선 | [회장단 인수인계 구조화 예시](./system-improvements/회장단%20인수인계.md) |
 
 ---
 
