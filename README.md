@@ -73,7 +73,7 @@
 | [java-lotto-7](https://github.com/younyoungieo/java-lotto-7/tree/younyoungieo) | 우아한테크코스 프리코스 미션: 로또 게임 구현 | Java, OOP, TDD |
 | [java-racingcar-7](https://github.com/younyoungieo/java-racingcar-7/tree/younyoungieo) | 경주 게임 구현 및 객체지향 설계 연습 | Java, OOP |
 | [java-calculator-7](https://github.com/younyoungieo/java-calculator-7/tree/younyoungieo) | 문자열 기반 계산기 구현 | Java, TDD |
-| [kubernetes-study-2024](https://github.com/younyoungieo/kubernetes-study-2024/tree/younyoungieo) | 쿠버네티스 스터디 정리 자료 | Kubernetes, YAML |
+| [kubernetes-study-2024](https://github.com/younyoungieo/kubernetes-study-2024) | 쿠버네티스 스터디 정리 자료 | Kubernetes, YAML |
 
 ---
 
