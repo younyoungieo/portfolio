@@ -1,6 +1,6 @@
 # 💼 Zanzanjae's Portfolio (by younyounieo)
 
-안녕하세요! 잔잔한 재미를 추구하며 개발을 기록하는 **잔잔재(zanzanjae)**입니다.  
+안녕하세요! 잔잔한 재미를 추구하며 개발을 기록하는 **잔잔재(zanzanjae)** 입니다.  
 이 저장소는 제가 개발을 배우며 경험한 프로젝트와 기술 학습 기록을 정리한 포트폴리오 공간입니다.  
 코드의 완성도보다 **배움과 성장의 과정**, 그리고 **기획 및 설계 중심의 사고 흐름**을 중심으로 구성했습니다.
 
@@ -70,10 +70,10 @@
 
 | 프로젝트명 | 설명 | 기술 스택 |
 |------------|------------------------------|------------------|
-| [java-lotto-7](https://github.com/younyoungieo/java-lotto-7) | 우아한테크코스 프리코스 미션: 로또 게임 구현 | Java, OOP, TDD |
-| [java-racingcar-7](https://github.com/younyoungieo/java-racingcar-7) | 경주 게임 구현 및 객체지향 설계 연습 | Java, OOP |
-| [java-calculator-7](https://github.com/younyoungieo/java-calculator-7) | 문자열 기반 계산기 구현 | Java, TDD |
-| [kubernetes-study-2024](https://github.com/younyoungieo/kubernetes-study-2024) | 쿠버네티스 스터디 정리 자료 | Kubernetes, YAML |
+| [java-lotto-7](https://github.com/younyoungieo/java-lotto-7/tree/younyoungieo) | 우아한테크코스 프리코스 미션: 로또 게임 구현 | Java, OOP, TDD |
+| [java-racingcar-7](https://github.com/younyoungieo/java-racingcar-7/tree/younyoungieo) | 경주 게임 구현 및 객체지향 설계 연습 | Java, OOP |
+| [java-calculator-7](https://github.com/younyoungieo/java-calculator-7/tree/younyoungieo) | 문자열 기반 계산기 구현 | Java, TDD |
+| [kubernetes-study-2024](https://github.com/younyoungieo/kubernetes-study-2024/tree/younyoungieo) | 쿠버네티스 스터디 정리 자료 | Kubernetes, YAML |
 
 ---
 
