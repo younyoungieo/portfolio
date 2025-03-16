@@ -26,7 +26,7 @@
   - 크롤링 자동화 및 데이터 파이프라인 설계
   - AWS 기반 배포 (Lambda, S3 등)
   - 아키텍처 작성 및 설계 의도 문서화
-- 📎 [아키텍처 도식](링크) | [기획/설계 문서](링크)
+- 📎 [아키텍처](./projects/NoticeHub/architecture.png) | [최종 발표자료](./projects/NoticeHub/컨퍼런스_최종발표.pdf)
 
 ---
 
@@ -38,7 +38,7 @@
   - 아키텍처 설계 및 수정, 우선순위 기능 설계
   - 발표자료 작성 및 컨퍼런스 발표 (1등 수상)
   - EC2 배포, OAuth 인증 구현
-- 📎 [기획 발제자료](링크) | [중간 발표자료](링크) | [최종 발표자료](링크)
+- 📎 [기획 발제자료](./projects/YourTube/presentations/발제_유튜브%20알고리즘%20세탁기.pdf) | [중간 발표자료](./projects/YourTube/presentations/중간발표.pdf) | [최종 발표자료](./projects/YourTube/presentations/컨퍼런스_최종발표.pdf)
 
 ---
 
@@ -96,10 +96,10 @@
 
 | 주제 | 링크 |
 |------|--------------------------|
-| Git & Github | [발제자료 보기](링크) |
-| NoSQL 개념 및 모델 | [발제자료 보기](링크) |
-| Spark & RDD 구조 | [발제자료 보기](링크) |
-| 학회 운영 시스템 개선 요약 | [운영 개선 요약 자료 보기](링크) |
+| Git & Github | [발제자료 보기](./tech-sessions/Git.pdf) |
+| DB & NoSQL | [발제자료 보기](./tech-sessions/NoSQL.pdf) |
+| Spark & RDD 구조 | [발제자료 보기](./tech-sessions/Spark.pdf) |
+| 학회 운영 시스템 개선 | [회장단 인수인계](./system-improvements/회장단%20인수인계.md) |
 
 ---
 
