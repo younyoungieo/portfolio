@@ -42,7 +42,7 @@
 
 ---
 
-### [📂 YourTube_Service (Private)]
+### [📂 YourTube_Service](https://github.com/YBIGTA/YourTube_Service)
 - **개요**: 확장 프로그램의 실사용 서비스 구현 프로젝트
 - **역할**
   - EC2 기반 서버 배포
