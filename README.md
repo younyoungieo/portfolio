@@ -19,6 +19,18 @@
 
 ## 🧩 주요 프로젝트
 
+### [📂 YourTube - 유튜브 영상 필터링 확장 프로그램](https://github.com/YBIGTA/YourTube_Service)
+- **개요**: 사용자의 유튜브 구독 영상을 카테고리별로 분류·필터링하는 크롬 확장 프로그램
+- **역할**
+  - 프로젝트 기획 및 주제 발제
+  - 팀장: 일정 조율, 역할 분배, 목표 정의
+  - 아키텍처 설계 및 수정, 우선순위 기능 설계
+  - 발표자료 작성 및 컨퍼런스 발표 (1등 수상)
+  - EC2 배포, OAuth 인증 구현, 라우팅 처리
+- 📎 [기획 발제자료](./projects/YourTube/presentations/발제_유튜브%20알고리즘%20세탁기.pdf) | [중간 발표자료](./projects/YourTube/presentations/중간발표.pdf) | [최종 발표자료](./projects/YourTube/presentations/컨퍼런스_최종발표.pdf) (해당 발표자료는 초기 구현 기준이며, 최신 내용은 GitHub 레포지토리에서 확인 가능합니다.)
+
+---
+
 ### [📂 NoticeHub - 연세대 통합공지 챗봇](https://github.com/YBIGTA/25th-conference-NoticeHub)
 - **개요**: GPT 기반 공지사항 질의응답 챗봇 서비스
 - **역할**
@@ -30,39 +42,18 @@
 
 ---
 
-### [📂 YourTube - 유튜브 영상 필터링 확장 프로그램](https://github.com/YBIGTA/24th-conference-yourtube)
-- **개요**: 사용자의 유튜브 구독 영상을 카테고리별로 분류·필터링하는 크롬 확장 프로그램
-- **역할**
-  - 프로젝트 기획 및 주제 발제
-  - 팀장: 일정 조율, 역할 분배, 목표 정의
-  - 아키텍처 설계 및 수정, 우선순위 기능 설계
-  - 발표자료 작성 및 컨퍼런스 발표 (1등 수상)
-  - EC2 배포, OAuth 인증 구현
-- 📎 [기획 발제자료](./projects/YourTube/presentations/발제_유튜브%20알고리즘%20세탁기.pdf) | [중간 발표자료](./projects/YourTube/presentations/중간발표.pdf) | [최종 발표자료](./projects/YourTube/presentations/컨퍼런스_최종발표.pdf)
-
----
-
-### [📂 YourTube_Service](https://github.com/YBIGTA/YourTube_Service)
-- **개요**: 확장 프로그램의 실사용 서비스 구현 프로젝트
-- **역할**
-  - EC2 기반 서버 배포
-  - FastAPI 기반 OAuth 인증, 라우팅 처리
-  - 기존 로컬 기반 구조 → 클라우드 환경 리디자인
-
----
-
-### [📂 책 기반 플레이리스트 추천](https://github.com/YBIGTA/24th-project-playlist-recommendation)
-- **개요**: 감성 기반 책 키워드를 바탕으로 플레이리스트를 추천하는 서비스
-- **역할**: 데이터 수집/전처리 및 추천 로직 기획
-
----
-
 ### [📂 영상 하이라이터](https://github.com/YBIGTA/24th-de-highlighter)
 - **개요**: 영상 스트림에서 주요 장면을 자동 추출하는 하이라이팅 시스템
 - **역할**
   - 데이터 특성 분석 및 오류 디버깅
   - InfluxDB 타임스탬프 문제 해결
   - 실시간 데이터 처리 흐름 분석
+
+---
+
+### [📂 책 기반 플레이리스트 추천](https://github.com/YBIGTA/24th-project-playlist-recommendation)
+- **개요**: 감성 기반 책 키워드를 바탕으로 플레이리스트를 추천하는 서비스
+- **역할**: 데이터 수집/전처리 및 추천 로직 기획
 
 ---
 
